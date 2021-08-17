@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+      "types": ["node", "webdriverio/async", "@wdio/cucumber-framework", "expect-webdriverio"]
+    }
+  }
