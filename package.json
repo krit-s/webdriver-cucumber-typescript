@@ -1,0 +1,25 @@
+{
+  "name": "webdriver-cucumber-typescript",
+  "version": "1.0.0",
+  "description": "BDD framework with webdriver for Automation Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krit-s/webdriver-cucumber-typescript.git"
+  },
+  "keywords": [
+    "webdriverio",
+    "typescript",
+    "cucumber",
+    "nodejs"
+  ],
+  "author": "Krit Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krit-s/webdriver-cucumber-typescript/issues"
+  },
+  "homepage": "https://github.com/krit-s/webdriver-cucumber-typescript#readme"
+}
